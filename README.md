@@ -1,2 +1,1 @@
-# matrix_car
-Car price prediction
+# Car price prediction
